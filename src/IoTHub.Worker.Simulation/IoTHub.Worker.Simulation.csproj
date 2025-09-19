@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-IoTHub.Worker.Simulation-ae4ba0a2-1705-4171-80c7-b4177b47a5a8</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="10.0.0-rc.1.25451.107" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\IoTHub.Application\IoTHub.Application.csproj" />
+      <ProjectReference Include="..\IoTHub.Infrastructure\IoTHub.Infrastructure.csproj" />
+      <ProjectReference Include="..\IoTHub.Domain\IoTHub.Domain.csproj" />
+    </ItemGroup>
+</Project>

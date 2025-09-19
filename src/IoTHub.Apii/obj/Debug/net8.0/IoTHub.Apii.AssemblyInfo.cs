@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74e61a31283985f10aa6cdf306a352e008e860cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd99d733b8ee14af5c9c627e0293bd2f6db72fec")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

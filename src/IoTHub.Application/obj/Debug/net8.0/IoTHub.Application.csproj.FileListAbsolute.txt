@@ -1,0 +1,16 @@
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/bin/Debug/net8.0/IoTHub.Application.deps.json
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/bin/Debug/net8.0/IoTHub.Application.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/bin/Debug/net8.0/IoTHub.Application.pdb
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/bin/Debug/net8.0/IoTHub.Domain.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/bin/Debug/net8.0/IoTHub.Domain.pdb
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.csproj.AssemblyReference.cache
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.AssemblyInfoInputs.cache
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.AssemblyInfo.cs
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.csproj.CoreCompileInputs.cache
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.sourcelink.json
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.A.0CAA011F.Up2Date
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/refint/IoTHub.Application.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/IoTHub.Application.pdb
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Application/obj/Debug/net8.0/ref/IoTHub.Application.dll

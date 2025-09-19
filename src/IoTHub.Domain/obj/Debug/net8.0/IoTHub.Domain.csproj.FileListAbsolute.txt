@@ -1,0 +1,13 @@
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/bin/Debug/net8.0/IoTHub.Domain.deps.json
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/bin/Debug/net8.0/IoTHub.Domain.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/bin/Debug/net8.0/IoTHub.Domain.pdb
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.AssemblyInfoInputs.cache
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.AssemblyInfo.cs
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.csproj.CoreCompileInputs.cache
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.sourcelink.json
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/refint/IoTHub.Domain.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.pdb
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/ref/IoTHub.Domain.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/obj/Debug/net8.0/IoTHub.Domain.csproj.AssemblyReference.cache
