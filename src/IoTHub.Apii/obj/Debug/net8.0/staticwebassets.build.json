@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rKNJyJmu/ARSZao511U/g4IcK3Mzqo1Qru1ePCLp8yQ=",
+  "Source": "IotHub.Api",
+  "BasePath": "_content/IotHub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
