@@ -1,14 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "unvT+vy907o=",
+  "dgSpecHash": "IDbUVOG8f3U=",
   "success": true,
   "projectFilePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
   "expectedPackageFiles": [
+    "/Users/tarikpasalic/.nuget/packages/fluentvalidation/8.6.3/fluentvalidation.8.6.3.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.aspnet.webapi.client/5.2.3/microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.aspnetcore.openapi/8.0.11/microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.bcl.asyncinterfaces/10.0.0-rc.1.25451.107/microsoft.bcl.asyncinterfaces.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.14/microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.14/microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.14/microsoft.entityframeworkcore.relational.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
@@ -18,21 +22,111 @@
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.healthchecks.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.healthchecks.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore/8.0.14/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.fileproviders.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.hosting.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.hosting.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.logging.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.options/10.0.0-rc.1.25451.107/microsoft.extensions.options.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.primitives/10.0.0-rc.1.25451.107/microsoft.extensions.primitives.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.netcore.platforms/1.0.1/microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.netcore.targets/1.0.1/microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/npgsql/8.0.6/npgsql.8.0.6.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/sendgrid/8.0.5/sendgrid.8.0.5.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/sendgrid.csharp.http.client/3.0.0/sendgrid.csharp.http.client.3.0.0.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore/8.1.4/swashbuckle.aspnetcore.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.4/swashbuckle.aspnetcore.swagger.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.4/swashbuckle.aspnetcore.swaggergen.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.4/swashbuckle.aspnetcore.swaggerui.8.1.4.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.collections/4.0.11/system.collections.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.diagnostics.debug/4.0.11/system.diagnostics.debug.4.0.11.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-rc.1.25451.107/system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.diagnostics.tools/4.0.1/system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.dynamic.runtime/4.0.11/system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.globalization/4.0.11/system.globalization.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.io/4.1.0/system.io.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.io.filesystem/4.0.1/system.io.filesystem.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.io.filesystem.primitives/4.0.1/system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.linq/4.1.0/system.linq.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.linq.expressions/4.1.0/system.linq.expressions.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.objectmodel/4.0.12/system.objectmodel.4.0.12.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection/4.1.0/system.reflection.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.emit/4.0.1/system.reflection.emit.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.emit.ilgeneration/4.0.1/system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.emit.lightweight/4.0.1/system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.extensions/4.0.1/system.reflection.extensions.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.primitives/4.0.1/system.reflection.primitives.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.reflection.typeextensions/4.1.0/system.reflection.typeextensions.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.resources.resourcemanager/4.0.1/system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.runtime/4.1.0/system.runtime.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.runtime.extensions/4.1.0/system.runtime.extensions.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.runtime.handles/4.0.1/system.runtime.handles.4.0.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.runtime.interopservices/4.1.0/system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.runtime.serialization.primitives/4.1.1/system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.text.encoding/4.0.11/system.text.encoding.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.text.encoding.extensions/4.0.11/system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.text.regularexpressions/4.1.0/system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.threading/4.0.11/system.threading.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.threading.tasks/4.0.11/system.threading.tasks.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.netcore.app.ref/8.0.8/microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.8/microsoft.netcore.app.host.osx-arm64.8.0.8.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNet.WebApi.Client 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'Sendgrid 8.0.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "libraryId": "Sendgrid",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'SendGrid.CSharp.HTTP.Client 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Apii/IoTHub.Apii.csproj",
+      "libraryId": "SendGrid.CSharp.HTTP.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

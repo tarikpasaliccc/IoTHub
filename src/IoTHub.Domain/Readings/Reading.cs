@@ -12,4 +12,4 @@ public class Reading
     public string Unit { get; set; } = null!;
     public ReadingQuality Quality { get; set; }
     public DateTimeOffset IngestionAt { get; set; }
-}
+}   

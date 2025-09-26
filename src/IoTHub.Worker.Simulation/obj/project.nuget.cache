@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NPbPMZVGdG8=",
+  "dgSpecHash": "qxVJUEep0mA=",
   "success": true,
   "projectFilePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Worker.Simulation/IoTHub.Worker.Simulation.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore/8.0.14/microsoft.entityframeworkcore.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.14/microsoft.entityframeworkcore.abstractions.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.14/microsoft.entityframeworkcore.analyzers.8.0.14.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.14/microsoft.entityframeworkcore.relational.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
@@ -25,6 +26,7 @@
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.healthchecks.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.diagnostics.healthchecks.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore/8.0.14/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore.8.0.14.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.0-rc.1.25451.107/microsoft.extensions.fileproviders.abstractions.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
@@ -41,6 +43,8 @@
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.extensions.primitives/10.0.0-rc.1.25451.107/microsoft.extensions.primitives.10.0.0-rc.1.25451.107.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/npgsql/8.0.6/npgsql.8.0.6.nupkg.sha512",
+    "/Users/tarikpasalic/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore/8.1.4/swashbuckle.aspnetcore.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.4/swashbuckle.aspnetcore.swagger.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.4/swashbuckle.aspnetcore.swaggergen.8.1.4.nupkg.sha512",

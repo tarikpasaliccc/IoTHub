@@ -15,7 +15,7 @@ public class DeviceConfiguration : IEntityTypeConfiguration<Device>
         builder.Property(d => d.Status).IsRequired();
         builder.Property(d => d.LastActive);
         builder.Property(d => d.IsActive).IsRequired();
-        builder.Property(d => d.CreatedAt).IsRequired().HasDefaultValueSql("NOW()");
+        builder.Property(d => d.CreatedAt).IsRequired().HasDefaultValue("NOW()");
         builder.Property(d => d.UpdatedAt);
 
         builder.HasMany(d => d.Sensors)

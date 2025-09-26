@@ -2,7 +2,7 @@ using IoTHub.Domain.Common.Enums;
 using IoTHub.Domain.Devices;
 using IoTHub.Domain.Readings;
 
-namespace IoTHub.Domain.Sensor;
+namespace IoTHub.Domain.Sensors;
 
 public class Sensor
 {
@@ -16,7 +16,7 @@ public class Sensor
     public double? MaxThreshold { get; set; }
     public bool IsActive { get; set; }
     public DateTimeOffset CreatedAt { get; set; }
-    public DateTimeOffset UpdatedAt { get; set; }
+    public DateTimeOffset? UpdatedAt { get; set; }
     public Device Device { get; set; } = null!;
     public ICollection<Reading> Readings { get; set; } = new List<Reading>();
 }

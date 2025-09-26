@@ -1,11 +1,12 @@
+using IoTHub.Infrastructure;
+
 namespace IoTHub.Features.Device;
 
 public static class DeviceEndpoints
 {
-    public static void MapDeviceEndpoints(this WebApplication app)
+    public static IEndpointRouteBuilder MapDeviceEndpoints(this IEndpointRouteBuilder group)
     {
-        var group = app.MapGroup("/api/device").WithTags("Device");
-
-        
+        //group.MapGet("/devices", ...).WithName("GetDevices");
+        return group;
     }
 }

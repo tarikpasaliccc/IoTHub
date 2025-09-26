@@ -1,4 +1,5 @@
 ﻿using IoTHub.Domain.Common.Enums;
+using IoTHub.Domain.Sensors;
 
 namespace IoTHub.Domain.Devices;
 
@@ -13,5 +14,5 @@ public class Device
     public bool IsActive { get; set; }
     public DateTimeOffset CreatedAt { get; set; }
     public DateTimeOffset UpdatedAt { get; set; }
-    public ICollection<Sensor.Sensor> Sensors { get; set; } = new List<Sensor.Sensor>();
+    public ICollection<Sensor> Sensors { get; set; } = new List<Sensor>();
 }
