@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f4a8f4b2-91f9-44d9-af3d-0aafe55b4f87")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86f058292b47e77d6e9c8ed43b6f43f6b170fb45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95791d6594ee3e4c82091d638dfc3933b801cf17")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTHub.Apii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
