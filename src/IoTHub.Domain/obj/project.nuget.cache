@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rV+x8g5uXWo=",
+  "dgSpecHash": "u9N/cIfVlwc=",
   "success": true,
   "projectFilePath": "/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Domain/IoTHub.Domain.csproj",
   "expectedPackageFiles": [
@@ -21,9 +21,7 @@
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swagger/8.1.4/swashbuckle.aspnetcore.swagger.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.1.4/swashbuckle.aspnetcore.swaggergen.8.1.4.nupkg.sha512",
     "/Users/tarikpasalic/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.1.4/swashbuckle.aspnetcore.swaggerui.8.1.4.nupkg.sha512",
-    "/Users/tarikpasalic/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-rc.1.25451.107/system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512",
-    "/Users/tarikpasalic/.nuget/packages/microsoft.netcore.app.ref/8.0.8/microsoft.netcore.app.ref.8.0.8.nupkg.sha512",
-    "/Users/tarikpasalic/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/Users/tarikpasalic/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-rc.1.25451.107/system.diagnostics.diagnosticsource.10.0.0-rc.1.25451.107.nupkg.sha512"
   ],
   "logs": []
 }

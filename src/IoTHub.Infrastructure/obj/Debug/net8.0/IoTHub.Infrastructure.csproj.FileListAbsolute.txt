@@ -16,3 +16,5 @@
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Infrastructure/obj/Debug/net8.0/refint/IoTHub.Infrastructure.dll
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Infrastructure/obj/Debug/net8.0/IoTHub.Infrastructure.pdb
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Infrastructure/obj/Debug/net8.0/ref/IoTHub.Infrastructure.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Infrastructure/bin/Debug/net8.0/IoTHub.Infrastructure.runtimeconfig.json
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Infrastructure/obj/Debug/net8.0/IoTHub.Infrastructure.genruntimeconfig.cache

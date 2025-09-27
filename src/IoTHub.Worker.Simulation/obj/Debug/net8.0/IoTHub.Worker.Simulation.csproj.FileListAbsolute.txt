@@ -61,3 +61,4 @@
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Worker.Simulation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Worker.Simulation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Worker.Simulation/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/tarikpasalic/RiderProjects/IoTHub/src/IoTHub.Worker.Simulation/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll

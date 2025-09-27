@@ -16,7 +16,7 @@ public class SensorConfiguration : IEntityTypeConfiguration<Sensor>
         builder.Property(s => s.MinThreshold);
         builder.Property(s => s.MaxThreshold);
         builder.Property(s => s.IsActive).IsRequired().HasDefaultValue(true);
-        builder.Property(s => s.CreatedAt).IsRequired().HasDefaultValue("NOW()");
+        builder.Property(s => s.CreatedAt).IsRequired().HasDefaultValueSql("NOW()");
         builder.Property(s => s.UpdatedAt);
         
         builder.HasOne(s => s.Device)
